@@ -1,6 +1,6 @@
 # Övningssamling på JOINS och CRUD
 
-Ett övningssamling för att öva på joins och CRUD. Chinnok sample database är den som används i detta exempel.
+Ett övningssamling för att öva på joins och CRUD. Chinnok sample database är den som används i detta exempel. För att kunna göra övnignar så behövs givit vis SQLite Studio för att kunna jobba direkt mot en databas men även Chinook-databasen. Den kan ni ladda ner på denna [sida](https://www.sqlitetutorial.net/sqlite-sample-database/).
 
 <details open>
 <summary>Innehåll</summary>
