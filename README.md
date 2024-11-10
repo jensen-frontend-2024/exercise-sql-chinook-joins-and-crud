@@ -1,9 +1,10 @@
 # exercise-sql-chinook-joins-and-crud
 Ett övningssamling för att öva på joins och CRUD. Chinnok sample database är den som används i detta exempel.
 
-Självklart, här är frågorna utan lösningarna:
+<details open>
+<summary>Innehåll</summary>
 
----
+</details>
 
 ### Frågor för att öva på `JOIN`s (8 frågor)
 
@@ -48,7 +49,3 @@ Självklart, här är frågorna utan lösningarna:
 14. Ta bort kunden med `CustomerId = 5` från `Customers`-tabellen.
 
 15. Ta bort alla spår som tillhör albumet med `AlbumId = 10`.
-
----
-
-Dessa frågor ger praktisk övning i att använda `JOIN`-operationer samt att skapa, uppdatera och ta bort data i **Chinook Sample Database**. Lycka till med övningarna!
