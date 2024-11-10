@@ -1,8 +1,14 @@
-# exercise-sql-chinook-joins-and-crud
+# Övningssamling på JOINS och CRUD
+
 Ett övningssamling för att öva på joins och CRUD. Chinnok sample database är den som används i detta exempel.
 
 <details open>
 <summary>Innehåll</summary>
+
+- [JOINS](#frågor-för-att-öva-på-joins-8-frågor)
+- [INSERT](#frågor-för-att-öva-på-insert-2-frågor)
+- [UPDATE](#frågor-för-att-öva-på-update-3-frågor)
+- [DELETE](#frågor-för-att-öva-på-delete-2-frågor)
 
 </details>
 
@@ -24,6 +30,8 @@ Ett övningssamling för att öva på joins och CRUD. Chinnok sample database ä
 
 8. Hämta alla spår som tillhör genren "Rock" och visa spårens namn, albumets titel och artistens namn.
 
+[Tillbaks till toppen](#övningssamling-på-joins-och-crud)
+
 ---
 
 ### Frågor för att öva på `INSERT` (2 frågor)
@@ -31,6 +39,8 @@ Ett övningssamling för att öva på joins och CRUD. Chinnok sample database ä
 9. Lägg till en ny kund i `Customers`-tabellen med namn "Jane Doe" från Kanada och e-postadressen `janedoe@example.com`.
 
 10. Lägg till ett nytt album i `Albums`-tabellen med titeln "Greatest Hits" och koppla det till en artist med `ArtistId = 1`.
+
+[Tillbaks till toppen](#övningssamling-på-joins-och-crud)
 
 ---
 
@@ -42,6 +52,8 @@ Ett övningssamling för att öva på joins och CRUD. Chinnok sample database ä
 
 13. Ändra landet till "United States" för alla kunder som för närvarande har landet "USA".
 
+[Tillbaks till toppen](#övningssamling-på-joins-och-crud)
+
 ---
 
 ### Frågor för att öva på `DELETE` (2 frågor)
@@ -49,3 +61,5 @@ Ett övningssamling för att öva på joins och CRUD. Chinnok sample database ä
 14. Ta bort kunden med `CustomerId = 5` från `Customers`-tabellen.
 
 15. Ta bort alla spår som tillhör albumet med `AlbumId = 10`.
+
+[Tillbaks till toppen](#övningssamling-på-joins-och-crud)
